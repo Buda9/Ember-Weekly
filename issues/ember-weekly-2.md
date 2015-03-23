@@ -16,7 +16,7 @@ Handlebars helpers can simplify your templates a lot. The ability to call a help
 
 [Unit testing your ember.js templates with jasmine](http://toranbillups.com/blog/archive/2013/04/08/Unit-testing-your-emberjs-templates-with-jasmine-part-1/)
 
-A two part (1,2) write-up on how to test your Ember handlebars templates using jasmine. (toranbillups.com)
+A two part ([1](http://toranbillups.com/blog/archive/2013/04/08/Unit-testing-your-emberjs-templates-with-jasmine-part-1/),[2](http://toranbillups.com/blog/archive/2013/04/09/Unit-testing-your-emberjs-templates-with-jasmine-part-2/)) write-up on how to test your Ember handlebars templates using jasmine. (toranbillups.com)
 
 [Reopen application where the user left it](http://stve.cx/2013/04/ember-js-reopen-application-where-the-user-left-it/)
 
